@@ -64,3 +64,7 @@ h1{
   padding: 10px;
   width: 100px;
 }
+
+@media only screen and (min-width: 768px){
+  
+}
